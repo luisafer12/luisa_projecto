@@ -2,8 +2,8 @@
 // Configuración de la conexión a la base de datos
 $host = 'localhost';
 $dbname = 'company';
-$username = 'root';
-$password = '';
+$username = 'luisa1';
+$password = '12345';
 
 // Establecer conexión a la base de datos
 try {
